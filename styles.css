@@ -1,0 +1,43 @@
+body{
+    background-color:	#F8F8FF;
+  }
+
+#title
+{
+  font-family: lobster;
+  font-size: 40px;
+  text-align: center;
+}
+
+#image
+{
+  max-width: 100%;
+  height: auto; 
+  display: block;
+  margin: auto;
+}
+
+#img-caption
+{
+  text-align: center;  
+}
+
+h2
+{
+  padding-top: 20px;
+}
+
+#tribute-info
+{
+ background-color: #D7E5F0;
+ font-family: Calibri;
+ font-size: 20px;
+ text-align: center;
+ padding: 0px 20px 20px 5px;
+}
+
+a
+{
+  color: black;
+}
+
